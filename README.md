@@ -1,4 +1,6 @@
 # Instagram-s-Website
-https://charlieh7.github.io/Instagram-s-Website/
+Website for my YouTube+ Instagram: https://charlieh7.github.io/Instagram-s-Website/
 
-Instagram: https://www.youtube.com/redirect?event=channel_description&redir_token=QUFFLUhqbDBFRFQtSDFkMm5PbXdBZ1FJdmNmUWtReHdlUXxBQ3Jtc0tuVDhWWXZtTUFpQzJ4X2xLbzEtaEFyWF9GU1dLeW90UjVfOEFPbnNsRkVKREZCYnlzYVl1WUstamtGdEVEbU5RSGhGRHlUNUNfN2I0c0lHZVVGR0NlNFdOLWI5ODFLeU8zbjF3WkJfSWlWSWFEQzBFMA&q=https%3A%2F%2Fwww.instagram.com%2Ftable_tennis_forever%2F
+Instagram: https://www.instagram.com/table_tennis_forever/
+
+YouTube:https://www.youtube.com/channel/UCpWrn8pelf9V2O1W5jwP8eA
