@@ -76,7 +76,7 @@
 	}
 
 	body {
-		background: #202024;
+		background: #1b1b1f;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -1245,7 +1245,7 @@
 			background-position: center 1.35em;
 			background-repeat: no-repeat;
 			background-size: auto;
-			border: 1px solid #fff;
+			border: 2px solid rgb(22, 182, 22);
 			border-radius: 100%;
 			color: rgba(255, 255, 255, 0.75);
 			display: block;
@@ -1260,7 +1260,7 @@
 
 			#banner .more:hover {
 				background-color: rgba(255, 255, 255, 0.05);
-				border: 1px solid #fff;
+				border: 1px solid rgb(13, 194, 52);
 				color: #FFF;
 			}
 
