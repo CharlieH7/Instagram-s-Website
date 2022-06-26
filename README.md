@@ -1,5 +1,5 @@
 # Instagram-s-Website
-Website for my YouTube + Instagram: https://charlieh7.github.io/Instagram-s-Website/
+A fun little Website for my YouTube + Instagram: https://charlieh7.github.io/Instagram-s-Website/
 
 Instagram: https://www.instagram.com/table_tennis_forever/
 
